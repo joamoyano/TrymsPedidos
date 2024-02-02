@@ -1,0 +1,122 @@
+[
+    {
+        "id": "PapasClasicas",
+        "titulo": "Naturales Clasicas",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-naturales-clasicas-0-min.png",
+        "categoria": {
+            "nombre": "papas",
+            "id": "papas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "PapasCM",
+        "titulo": "Papas Naturales con Cebolla Morada",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-naturales-con-cebolla-morada-0-min.png",
+        "categoria": {
+            "nombre": "papas",
+            "id": "papas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "PapasSP",
+        "titulo": "Papas Naturales con Pimienta y Sal Marina",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-naturales-con-pimienta-y-sal-marina-0-min.png",
+        "categoria": {
+            "nombre": "papas",
+            "id": "papas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "PapasMorr",
+        "titulo": "Papas Naturales con Morron",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-naturales-con-pimiento-morron-0-min.png",
+        "categoria": {
+            "nombre": "papas",
+            "id": "papas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "PapasFH",
+        "titulo": "Papas Naturales con Finas Hierbas",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-naturales-finas-hierbas-0-min.png",
+        "categoria": {
+            "nombre": "papas",
+            "id": "papas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "papasCCA",
+        "titulo": "Papas con Cascara Aceto Balsamico",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-con-cascara-aceto-balsamico-0-min.png",
+        "categoria": {
+            "nombre": "papasCC",
+            "id": "papasCC"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "papasCCB",
+        "titulo": "Papas con Cascara Barbacoa Texana",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-con-cascara-barbacoa-texana-0-min.png",
+        "categoria": {
+            "nombre": "papasCC",
+            "id": "papasCC"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "papasCCC",
+        "titulo": "Papas con Cascara Chori con Chimi",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-con-cascara-chori-con-chimi-0-min.png",
+        "categoria": {
+            "nombre": "papasCC",
+            "id": "papasCC"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "papasCCJ",
+        "titulo": "Papas con Cascara Jalapeño Ahumado",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-papas-con-cascara-jalapeno-ahumado-0-min.png",
+        "categoria": {
+            "nombre": "papasCC",
+            "id": "papasCC"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "NachosC",
+        "titulo": "Nachos Sabor Cheddar",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-nachos-sabor-cheddar-0-min.png",
+        "categoria": {
+            "nombre": "Nachos",
+            "id": "Nachos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "NachosJ",
+        "titulo": "Nachos Sabor Jalapeño y limon",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-nachos-sabor-jalapeno-y-lima-0-min.png",
+        "categoria": {
+            "nombre": "Nachos",
+            "id": "Nachos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Batata",
+        "titulo": "Batatas Clasicas",
+        "imagen": "https://tryms.com.ar/wp-content/uploads/2022/05/tryms-batatas-clasicas-0-min.png",
+        "categoria": {
+            "nombre": "batata",
+            "id": "batata"
+        },
+        "precio": 1000
+    }
+]
